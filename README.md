@@ -1,3 +1,4 @@
+<img width="2752" height="1536" alt="Graphics_card_product_demonstrat…_2K_202608231528" src="https://github.com/user-attachments/assets/aec9e3b6-7c9b-4b21-b2e9-2b37ae38bac4" />
 Editorial Tech Director 是一套专为中文科技解读、AI 热点与知识型视频设计的 AI 制片 Skill。
 
 该skill主要提取kimi发布会呈现的视频效果与风格
