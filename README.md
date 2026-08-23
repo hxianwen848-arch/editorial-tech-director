@@ -31,3 +31,9 @@ Skill 可以进一步将完整选题转化为：
 
 https://github.com/user-attachments/assets/eeaf3995-2a94-4b23-8b32-02bf4cc8a192
 
+
+<img width="2752" height="1536" alt="Multimodal_product_demonstration…_2K_202608231538" src="https://github.com/user-attachments/assets/235b1b31-050f-4945-8d9a-b2cf4e565ef0" />
+
+
+https://github.com/user-attachments/assets/d132a6d5-d82c-46a1-8148-4de54d1beb3f
+
