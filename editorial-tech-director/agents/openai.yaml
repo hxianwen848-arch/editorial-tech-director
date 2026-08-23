@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Tech Director"
+  short_description: "Create editorial explainer production packs"
+  default_prompt: "Use $editorial-tech-director to turn a topic into a structured Chinese explainer video production pack."
