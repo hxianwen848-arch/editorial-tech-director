@@ -1,7 +1,6 @@
-<img width="2752" height="1536" alt="Graphics_card_product_demonstrat…_2K_202608231528" src="https://github.com/user-attachments/assets/aec9e3b6-7c9b-4b21-b2e9-2b37ae38bac4" />
 Editorial Tech Director 是一套专为中文科技解读、AI 热点与知识型视频设计的 AI 制片 Skill。
 
-该skill主要提取kimi发布会呈现的视频效果与风格
+该skill主要提取kimi发布会呈现的视频效果与风格，建议使用nano banana生图＋omni生视频
 
 它不只是生成文案和 Prompt，而是将复杂的信息内容转化为一套具有丝滑产品演示感的信息可视化动画系统。
 
@@ -26,3 +25,9 @@ Skill 可以进一步将完整选题转化为：
 选题 → 叙事 → 分镜 → 图片 Prompt → 视频 Prompt → 字幕 → 剪辑说明
 
 并输出结构化的完整项目文件，让每个镜头都可以独立交给 AI 图像/视频模型生成。
+
+<img width="2752" height="1536" alt="Exploded_hardware_product_demons…_2K_202608231533" src="https://github.com/user-attachments/assets/1f503ef1-c00a-4a2f-bee3-cbdb1c5026f7" />
+
+
+https://github.com/user-attachments/assets/eeaf3995-2a94-4b23-8b32-02bf4cc8a192
+
