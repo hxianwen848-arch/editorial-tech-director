@@ -20,15 +20,15 @@ https://github.com/user-attachments/assets/5e91679a-a1ec-46b8-bc52-1046d9e98076
 
 流程卡片 — 将复杂流程拆解成连续的视觉卡片，并通过动态路径串联
 
-https://github.com/user-attachments/assets/26b145bd-3ca7-4cf7-b548-8819ebfcef0e
-
 <img width="2752" height="1536" alt="Coffee_product_process_sequence_…_202608231747" src="https://github.com/user-attachments/assets/2e6184cf-c69e-4fd9-8e25-4fbacbfeeafb" />
+
+https://github.com/user-attachments/assets/26b145bd-3ca7-4cf7-b548-8819ebfcef0e
 
 深色界面 — 用深色计算窗口表现代码、数据处理、参数变化等内容
 
-https://github.com/user-attachments/assets/251bdfcb-9bcb-4619-b374-f515f64bb375
-
 <img width="2752" height="1536" alt="AI_product_demonstration_montage…_2K_202608231750" src="https://github.com/user-attachments/assets/18a69dd7-408f-4898-aeb6-d75e5b8f003d" />
+
+https://github.com/user-attachments/assets/251bdfcb-9bcb-4619-b374-f515f64bb375
 
 尺度扩张 — 从一个具体对象逐步扩展到多个模块，表现规模增长与复杂度提升
 
@@ -38,9 +38,9 @@ https://github.com/user-attachments/assets/bda4257b-3be6-4053-9463-6d4403165b57
 
 系统全景 — 从单个组件平滑拉远，逐步展示完整系统与组件之间的关系
 
-https://github.com/user-attachments/assets/d34ab68d-0b4b-438b-8735-2eef5e309ddf
-
 <img width="2752" height="1536" alt="Smartphone_connected_to_technica…_2K_202608231752" src="https://github.com/user-attachments/assets/1bd2f67d-8d7c-44ff-aaba-4149cdfdb26a" />
+
+https://github.com/user-attachments/assets/d34ab68d-0b4b-438b-8735-2eef5e309ddf
 
 每个镜头都会根据叙事功能选择合适的构图模块 + 动态模块，而不是让所有镜头套用同一种模板，从而保持整支视频的视觉统一，同时避免画面重复。
 
